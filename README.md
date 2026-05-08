@@ -23,7 +23,7 @@ Ovaj projekt je GUI verzija HRTI downloader skripte napravljena kako bi korište
 
 ---
 
-# Potrebne zavisnosti
+# Potrebno za rad aplikacije
 
 Da bi skripta pravilno funkcionirala, potrebno je instalirati sljedeće alate i biblioteke:
 
@@ -35,7 +35,7 @@ Da bi skripta pravilno funkcionirala, potrebno je instalirati sljedeće alate i 
 * xmltodict
 * requests
 
-## Dodatni alati
+## Takodjer potrebno 
 
 * `mp4decrypt` (Bento4) → dodati u `PATH` ili `binaries/`
 * `mkvmerge` (MKVToolNix) → dodati u `PATH` ili `binaries/`
@@ -54,13 +54,6 @@ pip install yt-dlp pywidevine xmltodict requests
 
 ---
 
-# Pokretanje aplikacije
-
-```bash
-python main.py
-```
-
----
 
 # Screenshotovi
 
