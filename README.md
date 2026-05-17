@@ -71,7 +71,8 @@ pip install yt-dlp pywidevine xmltodict requests
 
 ## Preuzimanje
 
-<img width="1182" height="812" alt="Preuzimanje" src="https://github.com/user-attachments/assets/7f5a0306-753f-467f-a304-1a4a40b02918" />
+<img width="1182" height="812" alt="image" src="https://github.com/user-attachments/assets/046de843-37a2-4fb8-a03a-d3372881d38e" />
+
 
 ---
 
