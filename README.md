@@ -59,13 +59,15 @@ pip install yt-dlp pywidevine xmltodict requests
 
 ## Login
 
-<img width="1182" height="812" alt="Login" src="https://github.com/user-attachments/assets/2ea11622-6b09-4842-b57e-e77361c00d4b" />
+<img width="1182" height="812" alt="image" src="https://github.com/user-attachments/assets/1414c0fa-b1cb-49ce-9727-0c1fbcd23770" />
+
 
 ---
 
 ## Pregled sadržaja
 
-<img width="1182" height="812" alt="Pregled" src="https://github.com/user-attachments/assets/df55f2fc-9d28-4941-ad99-9ba03c655758" />
+<img width="1182" height="812" alt="image" src="https://github.com/user-attachments/assets/3c34bf51-9c33-42b9-a6d8-44d184fa7908" />
+
 
 ---
 
@@ -78,7 +80,8 @@ pip install yt-dlp pywidevine xmltodict requests
 
 ## Log sistem
 
-<img width="1182" height="812" alt="Log" src="https://github.com/user-attachments/assets/81bf5ae4-bfb7-4380-8507-4e68c3332042" />
+<img width="1182" height="812" alt="image" src="https://github.com/user-attachments/assets/89739ea3-94c0-4b82-9c18-568f777bc98d" />
+
 
 ---
 
